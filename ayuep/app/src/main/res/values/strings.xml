@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ayuep</string>
+
+    <string name="edit">编辑</string>
+    <string name="store_name">店名: </string>
+    <string name="store_phone">电话: </string>
+    <string name="store_address">地址: </string>
 </resources>

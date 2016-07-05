@@ -5,10 +5,12 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/colorDashboardBackgroud"
     tools:context="com.ws.apple.ayuep.MainActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
+        android:background="@color/colorAccent"
         android:layout_height="100dp">
 
     </RelativeLayout>
