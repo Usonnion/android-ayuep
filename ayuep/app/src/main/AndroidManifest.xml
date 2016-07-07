@@ -15,11 +15,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".ui.store.StoreInfoActivity"
-            android:windowSoftInputMode="adjustPan"
-            android:label="店铺信息"></activity>
+            android:label="店铺信息"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".ui.dashboard.DashboardActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
