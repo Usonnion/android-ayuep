@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">爱约拍</string>
+    <string name="service_host">http://192.168.0.103</string>
+    <string name="service_port">8090</string>
 
     <string name="edit">编辑</string>
     <string name="store_name">店名: </string>
